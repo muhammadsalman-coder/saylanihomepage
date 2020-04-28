@@ -1,0 +1,287 @@
+*{
+	margin:0;
+	padding:0;
+	/*	font-family: 'Open Sans', sans-serif;*/
+}
+.sliderimg img{
+	width: 100%;
+	box-shadow:0 6px 10px  rgba(0, 0, 0, 0.2);
+}
+.navbar-light{
+	background-color: #F7F8FAFF !important;
+}
+.container a img{
+	height: 50px;
+	width: auto;
+	
+}
+
+.sticky img{
+	width: 100% !important;
+
+}
+li a{
+	font-size: 13px !important;
+	font-family: 'Lato', sans-serif;
+	font-weight: 600 !important;
+	padding: 8px 18px !important;
+	border-radius: 30px;
+
+
+}
+li a:hover{
+	border-radius: 30px;
+	color:#fff !important;
+	background-color: #316DC3FF;
+
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+
+	border-radius: 30px;
+	color: #fff !important;
+	background-color: #316DC3FF;
+}
+.container p{
+	margin:22px 0 10px  !important;
+}
+.aboutus{
+	margin-bottom: 100px;
+	background-color: #f7f8fa !important;
+	line-height: 1.7;
+	color: #666666;
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+
+
+.title-icon{
+	height: 40px;
+}
+
+.aboutus p{
+	text-align: justify;
+	visibility: visible;
+	line-height: 1.9;
+	position: relative;
+	margin:0;
+	
+}
+
+
+    .text-themeout-colored {
+    	color: #427900 !important;
+
+    }
+    .container >p{
+    	margin-top: 12px;
+    	background-color: #316DC3;
+    	color: white; 
+    }
+    .fontnumbers{
+    	    font-size: 3rem !important;
+    }
+    
+    .pt-80{
+    	padding-top: 80px;
+    }.pb-80{
+    	padding-bottom: 80px;
+    }
+    .icons-box h2{
+    	color:#fff !important;
+    	font-family: Merriweather, serif ;
+    	
+    }
+    .icons-box h5{
+    	text-transform: uppercase;
+    	color:#fff;
+    	font-family: 'Merriweather', serif;
+    	font-weight: 600;
+    	display: inline;
+    	   font-size: 14px;
+
+    }
+    .container .row h2 {
+    font-family: 'Merriweather', serif;
+    font-weight: 600 !important;
+    font-size: 2rem;
+    color: #316DC3;
+
+}
+.title-icon2 img{
+	margin-top: 15px ;
+	height: 45px;
+	
+}
+.text-edit{
+	font-family: 'Merriweather', serif;
+	font-weight: 600;
+	color: #316DC3;
+}
+.box{
+	width: auto;
+	height: 300px;
+}
+
+.p-30{
+	
+	padding: 50px;
+	margin-bottom: 30px
+}
+.box-shadow11{
+
+	box-shadow: 2px 4px 6px rgba(0,0,0,0.4)
+
+}
+
+.cards{
+	background:#f7f8fa;
+}
+
+.mt-20{
+	margin-top: 20px;
+	font-family: 'Merriweather', serif;
+	font-weight: 600;
+	color: #316DC3;
+
+}
+.mt-0{
+	margin-top: 0;
+
+}
+.line-bottom {
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    font-family: 'Merriweather', serif;
+    font-weight: 600;
+    color: #316DC3;
+}
+.p-15{
+	padding: 15px;
+}
+.mb-20{
+	margin-bottom: 20px;
+}
+.bg-silver{
+	background: #F5F6F9FF;
+	border:1px solid #ECEDF3FF;
+}
+.icon-box2 a img{
+	height:  30px;
+	margin-right: 20px;
+}
+.edit-bar{
+	font-family: 'Merriweather', serif;
+	font-weight: 600;
+	font-size: 14px;
+	position: absolute;
+	top:25px;
+	color: #316DC3;
+
+}
+.imgbox img{
+	width: 226px !important;
+	height: 150px  !important;
+	margin-bottom: 10px;
+}
+.section-content{
+	text-align: center;
+	margin-bottom: 100px;
+
+}
+footer {
+	background: #25272EFF;
+}
+.text-theme-colored{
+	color:green !important;
+
+
+}
+.widget img{
+	width: 120px;
+	margin-top: 40px;
+}
+.mr-5{
+	margin-right: 5px !important;
+
+}
+.mt-5{
+	margin-top: 5px !important;
+}
+.m-0{ margin: 0 !important ; }
+.pl-10 { padding-left: 10px !important; }
+.pr-10{padding-right: 10px !important;}
+
+.list-inline .disp {
+    display: inline-block ;
+    left: 400px;
+
+}
+.styled-icons li{
+	display: inline-block;
+}
+.widget-title{
+	font-family: 'Merriweather', serif;
+	font-size: 14px; 
+	font-weight: 600;
+	margin-top: 40px;
+	color: #fff;
+}
+
+.line-bottom:after {
+	border: 1px solid #427900;
+    bottom: -1px;
+    content: " ";
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 50px;
+}
+.line-bottom{
+	    border-bottom: 1px solid #444;
+}
+.styled-icons a {
+    font-size: 13px;
+    height: 30px;
+    line-height: 30px;
+   margin: 0;
+   padding: 0;
+    width: 30px;
+    border-radius: 50%;
+
+}
+.scrollToTop {
+    background: rgba(0, 0, 0, 0.1);
+    bottom: 15px;
+    right: 15px;
+    height: 50px;
+    width: 50px;
+    padding: 2px;
+    position: fixed;
+    text-align: center;
+    
+}
+.scrollToTop i {
+    color: #fff;
+    font-size: 42px;
+}
+.scrollToTop:hover{
+	background: rgba(0, 0, 0, 0.5);
+
+}
+.copyright{
+	background-color: #316DD9;
+	padding: 0 0 5px 0;
+
+}
+.copyright p{
+	font-size: 11px;
+	color:#fff;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+
+}
+
+/*text-white text-uppercase font-weight-600*/
